@@ -1,5 +1,6 @@
-public class Datatypes {
 
+import java.awt.*;
+public class Datatypes {
     public class Car {
         boolean isEngineWorking;
         int car_id;
